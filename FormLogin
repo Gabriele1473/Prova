@@ -1,3 +1,6 @@
 ciaooo
 dfghjuytrfv
 qwerty
+Int x= 4; 
+int y= 5;
+int risultato= x+y; 
